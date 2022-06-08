@@ -1,0 +1,3047 @@
+
+
+@media screen and (min-width: 768px) {
+    .ct_accordion_info {
+        display: block !important;
+    }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1440px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+@media screen and (min-width: 1441px) and (max-width: 1530px) {
+    .container {
+        max-width: 1300px;
+    }
+}
+@media screen and (min-width: 1531px) and (max-width: 1800px) {
+    .container {
+        max-width: 1400px;
+    }
+}
+@media screen and (min-width: 1801px) {
+    .container {
+        max-width: 1775px;
+    }
+}
+@media screen and (min-width: 1900px){
+    .address_contact_block {
+        left: -36.8%;
+        width: 77.1%;
+    }
+    #contact-form .col-lg-4 {
+        -ms-flex: 0 0 37.333333%;
+        flex: 0 0 37.333333%;
+        max-width: 37.333333%;
+    }
+    #contact-form .col-lg-8 {
+        -ms-flex: 0 0 62.666667%;
+        flex: 0 0 62.666667%;
+        max-width: 62.666667%;
+    }
+    .contact_form_box {
+        padding-top: 60px;
+    }
+    .contact_form_title h2 {
+        font-size: 55px;
+    }
+    .contact_form_item {
+        margin-bottom: 17px;
+    }
+    .custom-checkboc_button {
+        margin-bottom: 40px;
+    }
+    .contact_form_item input, .contact_form_item textarea {
+        padding: 10px 0 10px;
+    }
+    .contact_form_wrapper {
+        padding: 130px 15px 70px 90px;
+    }
+    .contact_form_wrapper .my-col {
+        width: 59.5%;
+    }
+}
+
+
+
+@media screen and (max-width: 1800px){
+    .contact_popup_block {
+        max-width: 65%;
+    }
+    .contact_popup_block.open {
+        right: -20%;
+    }
+    .mitglied_werden_section .online_analyse_text h2 {
+        font-size: 150px;
+    }
+    .mitglied_werden_left_col {
+        width: 800px;
+    }
+    .mitglied_werden_right_col {
+        width: calc(100% - 800px);
+    }
+    .gewinnspiel_section .online_analyse_text h2 {
+        font-size: 240px;
+    }
+    .schon_gewusst_content .common_section_title h2 {
+        font-size: 80px;
+    }
+    .schon_gewusst_section .online_analyse_text h2 {
+        font-size: 245px;
+    }
+    .schon_gewusst_right_col {
+        padding-left: 70px;
+    }
+    .probetraining_shape_line {
+        left: -62px;
+        top: -45px;
+        transform: rotate(-6deg);
+    }
+    .probetraining_shape_line img {
+        max-height: 435px;
+    }
+    .probetraining_section_image {
+        padding-right: 230px;
+    }
+    .probetraining_section_image_shape img {
+        height: 100%;
+        object-fit: cover;
+    }
+    .probetraining_content_ul {
+        padding-left: 75px;
+    }
+    .footer_heading h3 {
+        font-size: 40px;
+    }
+    .copy-rights-block {
+        padding: 30px 0 20px;
+    }
+
+    /*----------- Services highlight Section Start -------------*/
+    .services_left_section{
+        min-width: 65%;
+        height: 850px;
+    }
+    .services_right_contain{
+        min-width: 35%;
+    }
+    .lg_pad_right {
+        padding-right: 7%;
+    }
+    .lg_pad_left{
+        padding-left: 7%;
+    }
+    .inner_title_wir h3 {
+        font-size: 60px;
+    }
+    .inner_wir_contnet_col {
+        width: calc(100% - 750px);
+        padding: 50px 0;
+    }
+    .inner_wir_image_col {
+        width: 750px;
+    }
+    .inner_wir_empfehlen_box {
+        align-items: unset;
+    }
+    .inner_wir_image{
+        height: 100%;
+    }
+    .wir_inner_product {
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+    }
+    .inner_wir_image:after{
+        right: -100px;
+        max-width: 250px;
+    }
+    /*----------- Services Page End -------------*/
+
+    /*----------- Course Page Css Start -------------*/
+    .kurse_im_uberblick_content {
+        clip-path: polygon(0 0, 55% 0, 75% 100%, 0 100%);
+        -webkit-clip-path: polygon(0 0, 55% 0, 75% 100%, 0 100%);
+    }
+    /*----------- Course Page Css End -------------*/
+    /*--------- Studio Page Responsive Css Strat -------*/
+    .icon_set_4 {
+        right: 40px;
+    }
+    .icon_set_1 {
+        left: 70px;
+    }
+    .icon_set_3 {
+        left: 130px;
+    }
+    .icon_set_5 {
+        right: 230px;
+    }
+    .icon_set_2 {
+        right: 130px;
+    }
+    .only_for_line {
+        width: 45%;
+    }
+    .unser_team_title {
+        font-size: 90px;
+    }
+    #unser-team-s::after {
+        width: 52%;
+    }
+    .sei_nicht_details_block h2 {
+        font-size: 90px;
+    }
+    .only_for_line svg{
+        width: 100%;
+    }
+    /*--------- Studio Page Responsive Css End -------*/
+    /*--------- Contact Page Responsive Css Strat -------*/
+    .address_contact_block{
+        left: -43%;
+    }
+    .address_contact {
+        padding: 50px;
+    }
+    .contact_form_wrapper {
+        padding: 130px 15px 60px 70px;
+    }
+    .contact_form_wrapper .my-col {
+        width: 55%;
+    }
+    .contact_form_title h2 {
+        font-size: 53px;
+    }
+    .contact_form_wrapper .my-col {
+        width: 64%;
+    }
+    .address_contact_main_title {
+        font-size: 30px;
+    }
+    .address_contact_details p, .address_contact_details a {
+        font-size: 16px;
+    }
+    .desktop_img{
+        height: 100%;
+    }
+    /*--------- Contact Page Responsive Css End -------*/
+
+
+}
+
+@media screen and (max-width: 1600px){
+    .home_banner_section {
+        margin-bottom: 110px;
+    }
+    .home_banner_image img {
+        height: calc(100vh - 110px);
+        object-position: top center;
+    }
+    .home_main_title h1 {
+        font-size: 110px;
+        max-width: 550px
+    }
+    .home_bottom_white_box {
+        min-height: 110px;
+        bottom: -110px;
+        max-width: 50%;
+    }
+    .home_next_arrow a {
+        width: 80px;
+        height: 180px;
+    }
+    .home_next_arrow {
+        bottom: -65px;
+        left: 0;
+    }
+    .home_next_arrow a img {
+        max-width: 35px;
+    }
+    .header--inner--menu--block {
+        right: 10%;
+    }
+    .header--inner--btn {
+        bottom: 50px;
+    }
+    .contact_popup_block.open {
+        right: -25%;
+    }
+    .contact_popup_block {
+        max-width: 75%;
+    }
+    .contact_logo {
+        padding: 10px 0 15px 50px;
+    }
+    .contact_logo img {
+        max-width: 25px;
+    }
+    .contact_logo p {
+        font-size: 25px;
+    }
+    .contact-btn ul li a {
+        font-size: 18px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+    .contact-btn ul li + li {
+        margin-top: 20px;
+    }
+    .kontakt_map_block {
+        margin-top: 20px;
+    }
+    .kontakt-email-number-block p + p {
+        padding-left: 60px;
+    }
+    .kontakt-email-number-block p  {
+        font-size: 20px;
+    }
+    .close_popup_trigger {
+        padding-top: 25px;
+    }
+    .close_popup_trigger img {
+        max-width: 25px;
+    }
+    .kontakt_map_block iframe {
+        height: 160px;
+    }
+    .contact-btn ul li:nth-child(1) a {
+        margin-left: 115px;
+    }
+    .contact-btn ul li:nth-child(2) a {
+        margin-left: 65px;
+    }
+    .contact-btn ul li:nth-child(3) a {
+        margin-left: 10px;
+    }
+    .common_section_title h2 {
+        font-size: 50px;
+        margin-bottom: 10px;
+    }
+    .deine_leistungen_slider_block {
+        padding-top: 30px;
+    }
+    .deine_leistungen_owl.owl-theme .owl-nav {
+        margin-top: 10px;
+    }
+    .deine_leistungen_owl.owl-theme .owl-nav button svg, .bewertungen_owl.owl-theme .owl-nav button svg {
+        max-width: 40px;
+    }
+    .deine_leistungen_image img {
+        max-height: 350px;
+        object-fit: cover;
+        object-position:top center;
+    }
+    .deine_leistungen_content h4 {
+        font-size: 18px;
+    }
+    .bewertungen_slider_block {
+        padding-top: 60px;
+    }
+    .bewertungen_hold img{
+        max-height: 400px;
+        object-fit: cover;
+        object-position: top center;
+    }
+    .bewertungen_bottom_white_box {
+        min-height: 160px;
+    }
+    .bewertungen_content_block .common_section_desc p, .bewertungen_name h4 {
+        font-size: 20px;
+        line-height: 1.5;
+    }
+    .bewertungen_quate_icon {
+        max-width: 300px;
+        right: 10%;
+        bottom: -40px;
+    }
+    .bewertungen_owl:after, .bewertungen_content_block .common_section_desc:after {
+        font-size: 200px;
+    }
+    .bewertungen_owl:after {
+        top: -40px;
+        left: 148px;
+    }
+    .bewertungen_content_block .common_section_desc:after {
+        bottom: 0;
+    }
+    .bewertungen_btn {
+        padding-top: 95px;
+    }
+    .online_analyse_icon img {
+        max-width: 55px;
+    }
+    .common_scetion_shape_img {
+        max-width: 70px;
+        right: -30px;
+    }
+    .online_analyse_image_block {
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    .online_analyse_content {
+        padding-left: 20px;
+    }
+    .online_analyse_text {
+        bottom: -110px;
+    }
+    .online_analyse_text h2 {
+        font-size: 170px;
+    }
+    .bistdu_ubergewichtig_section .common_section_title h2 {
+        font-size: 50px;
+        max-width: 500px;
+    }
+    .bistdu_ubergewichtig_right_col, .bistdu_ubergewichtig_left_col {
+        width: 50%;
+    }
+    .bistdu_ubergewichtig_image {
+        max-width: 450px;
+        margin: 0 auto;
+    }
+    .bistdu_ubergewichtig_image img  {
+        max-height: 450px;
+        width: 100%;
+        object-fit: cover;
+        object-position: top center;
+    }
+    .bistdu_ubergewichtig_content {
+        padding-left: 70px;
+    }
+    .bistdu_ubergewichtig_section .common_scetion_shape_img {
+        left: -30px;
+    }
+    .bistdu_ubergewichtig_section .online_analyse_text {
+        left: 60px;
+    }
+    .mitglied_werden_section .common_scetion_shape_img {
+        bottom: 25px;
+        right: -30px;
+    }
+    .mitglied_werden_right_col, .mitglied_werden_left_col {
+        width: 50%;
+    }
+    .mitglied_werden_image img {
+        max-height: 400px;
+    }
+    .mitglied_werden_section .online_analyse_text {
+        bottom: -70px;
+        left: 70px;
+    }
+    .mitglied_werden_section .online_analyse_text h2 {
+        font-size: 135px;
+    }
+    .mitglied_werden_image {
+        padding-left: 30px;
+        padding-bottom: 30px;
+    }
+    .gewinnspiel_section .container {
+        max-width: 1400px;
+    }
+    .gewinnspiel_section .common_scetion_shape_img {
+        left: -30px;
+        bottom: 25px;
+    }
+    .wheel--box .wheel--box-inner {
+        max-width: 450px;
+        margin:  0 auto;
+    }
+    .wheel--button a {
+        width: 130px;
+        height: 130px;
+        font-size: 18px;
+    }
+    .spinner-img {
+        padding: 35px;
+    }
+    .wheel--box-inner:before {
+        width: 35px;
+        height: 55px;
+    }
+
+    .gewinnspiel_content .online_analyse_point {
+        padding-top: 30px;
+    }
+    .gewinnspiel_btn {
+        padding-top: 25px;
+    }
+    .gewinnspiel_section .online_analyse_text {
+        left: 120px;
+        bottom: -130px;
+    }
+    .gewinnspiel_section .online_analyse_text h2 {
+        font-size: 200px;
+    }
+    .g_content_1 {
+        padding-top: 90px;
+    }
+    .schon_gewusst_content .common_section_title h2 {
+        font-size:50px;
+    }
+    .schon_gewusst_section .online_analyse_text h2 {
+        font-size: 215px;
+    }
+    .schon_gewusst_left_col {
+        width: 500px;
+    }
+    .schon_gewusst_right_col {
+        width: calc(100% - 500px);
+        padding-left: 50px;
+    }
+    .schon_gewusst_content .common_section_desc p {
+        margin-bottom: 15px;
+    }
+    .wir_empfehlen_block {
+        margin-top: 20px;
+    }
+    .schon_gewusst_section .online_analyse_text {
+        bottom: -120px;
+        left: 0;
+    }
+    .schon_gewusst_section .online_analyse_text h2 {
+        font-size: 200px;
+    }
+    .probetraining_section_image_shape img {
+        max-height: 350px;
+    }
+    .probetraining_section_image_box {
+        padding: 30px 0 40px;
+    }
+    .probetraining_content {
+        min-height: 270px;
+        max-width: 430px;
+    }
+    .probetraining_content_ul li + li {
+        margin-top: 20px;
+    }
+    .probetraining_shape_line img {
+        max-height: 362px;
+    }
+    .probetraining_shape_line {
+        left: -60px;
+        top: -37px;
+        transform: rotate(-5deg);
+    }
+    .probetraining_content_ul li {
+        font-size: 20px;
+    }
+    .probetraining_content_ul {
+        padding-left: 60px;
+    }
+    .probetraining_content_ul li:nth-child(1) {
+        margin-left: 95px;
+    }
+    .probetraining_content_ul li:nth-child(2) {
+        margin-left: 65px;
+    }
+    .probetraining_content_ul li:nth-child(3) {
+        margin-left: 30px;
+    }
+    .probetraining_section .container{
+        max-width: 1300px;
+    }
+    .footer_heading h3 {
+        font-size: 35px;
+        max-width: 570px;
+    }
+    .footer_contnet_block .common_section_desc {
+        padding: 25px 0px;
+    }
+    .footer_image_block {
+        max-width: 565px;
+    }
+
+    /*========== Inner Page Css ===========*/
+
+    /*--------Services Page Css----------*/
+    .inner-page .home_social_icon {
+        bottom: 25px;
+    }
+    .inner-page .home_desc {
+        margin: 40px 0;
+    }
+    /*----------- Services highlight Section Start -------------*/
+    .inner_page_title h2{
+        font-size: 80px;
+    }
+    .service_list ul li p, .second_slider .moretext p{
+        font-size: 17px;
+    }
+    .services_left_section {
+        height: 730px;
+    }
+    .discount_price {
+        font-size: 80px;
+    }
+    .inner_wir_top_shape {
+        right: 73px;
+        top:-1px
+    }
+    .inner_wir_bottom_shape {
+        right: 9px;
+    }
+    .discount_bg {
+        max-width: 285px;
+        height: 160px;
+    }
+    .offer-shape-bg{
+        top: 0px;
+    }
+    .inner_point_wir p {
+        font-size: 16px;
+    }
+    .inner_wir_contnet_box {
+        margin-left: -20%;
+    }
+    /*----------- Services highlight Section End -------------*/
+
+    /*----------- Course Page Css Start -------------*/
+    .kurse_im_uberblick_title h3 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .kurse_im_uberblick_image img {
+        min-height: 430px;
+        max-width: 80%;
+        margin-left: auto;
+        object-fit: cover;
+        object-position: top center;
+    }
+    .kurse_im_uberblick_content_box .common-section-desc {
+        max-width: 190px;
+    }
+    .kurse_im_uberblick_content_box {
+        padding: 40px 15px;
+    }
+    /*----------- Course Page Css End -------------*/
+    .kursplan_left_col {
+        width: 350px;
+    }
+    .kursplan_right_col {
+         width: calc(100% - 350px);
+     }
+    .kursplan_tab_block {
+        padding: 120px 0 50px 95px;
+    }
+    .footer_inner_wrapper {
+        padding-top: 100px;
+    }
+    .overly_number_content h3 {
+        font-size: 70px;
+    }
+    .overly_number_content p {
+        font-size: 30px;
+    }
+    .overly_number {
+        max-width: 140px;
+        min-height: 170px;
+    }
+    .probetraining_content_ul li:after {
+        top: 6px;
+    }
+    /*--------- Studio Page Responsive Css End -------*/
+    .only_for_line {
+        width: 38%;
+    }
+    #unser-team-s {
+        padding-top: 70px;
+    }
+    #sudio-page .unser_team_slider_wrapper {
+        padding: 70px 15px 0 70px;
+    }
+    .team_details_text_title {
+        font-size: 20px;
+    }
+    .gallerie_box_wrapper {
+        padding-top: 70px;
+    }
+    #gallerie-s {
+        padding-top: 150px;
+    }
+    /*--------- Studio Page Responsive Css End -------*/
+
+
+
+}
+
+@media screen and (max-width: 1560px){
+    .bewertungen_bottom_white_box {
+        min-height: 100px;
+    }
+    .bewertungen_quate_icon {
+        max-width: 280px;
+        bottom: -60px;
+    }
+    .gewinnspiel_section .container {
+        max-width: 1300px;
+    }
+    .services_left_section {
+        height: 700px;
+    }
+}
+
+@media screen and (max-width: 1530px){
+    /*--------- Studio Page Responsive Css End -------*/
+    .unser_team_title, .sei_nicht_details_block h2 {
+        font-size: 70px;
+    }
+    .icon_set_3, .icon_set_4, .icon_set_2, .icon_set_5{
+        width: 50px;
+    }
+    .icon_set_1 {
+        left: 13%;
+    }
+    .icon_set_3 {
+        left: 16%;
+    }
+    .icon_set_4 {
+        right: 10%;
+    }
+    .icon_set_2 {
+        right: 11%;
+    }
+    .icon_set_5 {
+        right: 19%;
+    }
+    .only_for_line {
+        width: 34%;
+        left: -54px;
+        bottom: -55px;
+    }
+    #unser-team-s::after {
+        width: 55%;
+    }
+    /*--------- Studio Page Responsive Css End -------*/
+    /*--------- Contact Page Responsive Css Strat -------*/
+    .contact_form_wrapper {
+        padding: 100px 15px 50px 60px;
+    }
+    .contact_form_title h2 {
+        font-size: 48px;
+    }
+    .address_contact_main_title {
+        font-size: 28px;
+    }
+    .contact_form_box {
+        padding-top: 50px;
+    }
+    .custom-checkboc_button {
+        margin-bottom: 40px;
+    }
+    .address_contact_details:not(:last-child) {
+        margin-bottom: 50px;
+    }
+    /*--------- Contact Page Responsive Css End -------*/
+}
+
+@media screen and (max-width: 1440px){
+    .home_main_title h1 {
+        font-size: 80px;
+        max-width: 400px;
+    }
+    .home_bottom_white_box {
+        min-height: 70px;
+        bottom: -70px;
+    }
+    .home_banner_section {
+        margin-bottom: 70px;
+    }
+    .home_banner_image img {
+        height: calc(100vh - 70px);
+    }
+    .home_next_arrow a {
+        width: 60px;
+        height: 130px;
+    }
+    .home_next_arrow {
+        bottom: -45px;
+    }
+
+    .home_next_arrow a img {
+        max-width: 25px;
+    }
+    .home_desc p {
+        max-width: 450px;
+    }
+    .bewertungen_owl {
+        padding: 0 100px;
+    }
+    .bewertungen_owl:after {
+        left: 90px;
+    }
+    .bewertungen_content_block .common_section_desc:after {
+        right: 60px;
+    }
+    .bewertungen_owl:after, .bewertungen_content_block .common_section_desc:after {
+        font-size: 160px;
+    }
+    .online_analyse_text h2 {
+        font-size: 160px;
+    }
+    .mitglied_werden_section .online_analyse_text {
+        bottom: -50px;
+    }
+    .mitglied_werden_section .online_analyse_text h2 {
+        font-size: 120px;
+    }
+    .gewinnspiel_section .container {
+        max-width: 1140px;
+    }
+    .gewinnspiel_right_col, .gewinnspiel_left_col {
+        width: 50%;
+    }
+    .gewinnspiel_section .online_analyse_text h2 {
+        font-size: 170px;
+    }
+    .gewinnspiel_section .online_analyse_text {
+        bottom: -110px;
+    }
+    .footer_heading h3 {
+        font-size: 30px;
+        max-width: 500px;
+    }
+    /*----------- Services highlight Section Start -------------*/
+    .services_contain .service_box_img{
+        width: 135px;
+        height: 135px;
+    }
+    .services_contain .service_box_img svg{
+        width: 70%;
+    }
+    .services_red_section{
+        padding: 50px 0px;
+    }
+    .services_left_section {
+        height: 650px;
+    }
+    .inner_page_title h2 {
+        font-size: 74px;
+    }
+    .service_list ul li p, .second_slider .moretext p{
+        font-size: 16px;
+    }
+    .services_first_btn{
+        padding-top: 30px;
+    }
+    .service_list ul li + li, .service_list ul li + li{
+        margin-top: 12px;
+    }
+    .lg_pad_right {
+        padding-right: 10%;
+    }
+    .lg_pad_left{
+        padding-left: 10%;
+    }
+    .inner_wir_image_col, .inner_wir_contnet_col {
+        width: 50%;
+    }
+    .inner_wir_top_shape, .inner_wir_bottom_shape {
+        max-width: 150px;
+    }
+    .inner_wir_top_shape {
+        right: 135px;
+    }
+    .inner_wir_image:after {
+        right: -130px;
+        max-width: 280px;
+    }
+    .inner_point_wir p {
+        width: 100%;
+        max-width: 280px;
+    }
+    .inner_point_wir p + p{
+        margin-left: 0;
+    }
+    /*----------- Services page End -------------*/
+
+    /*----------- Course Page Start -------------*/
+    .kurse_im_uberblick_slider_block {
+        padding: 20px 0 0;
+    }
+    /*----------- Course Page End -------------*/
+    .kursplan_table_block {
+        width: calc(100% - 100px);
+        padding: 15px 40px 0;
+    }
+    .kursplan_red_box {
+        width: 100px;
+    }
+    .number_dez_row {
+        margin: 0 -25px;
+    }
+    .dez_col {
+        padding: 0 25px;
+    }
+    .dez_box_title h4 a {
+        font-size: 22px;
+    }
+    .number_dez_content .common-section-desc p, .cd-lr-more_main a {
+        font-size: 16px;
+    }
+    .overly_number_content h3 {
+        font-size: 60px;
+    }
+    .overly_number_content p {
+        font-size: 25px;
+    }
+    .overly_number {
+        max-width: 120px;
+        min-height: 140px;
+    }
+    /*--------- Studio Page Responsive Css End -------*/
+    #unser-team-s {
+        padding-top: 60px;
+    }
+    #sudio-page .unser_team_slider_wrapper {
+        padding: 60px 15px 0 70px;
+    }
+    #sei-nicht {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .unser_team_title, .sei_nicht_details_block h2 {
+        font-size: 60px;
+    }
+    .icon_set_3, .icon_set_4, .icon_set_5 {
+        width: 38px;
+    }
+    .icon_set_2{
+        width: 25px;
+    }
+    #sudio-page.common-footer-pt .footer_inner_wrapper {
+        padding-top: 100px;
+    }
+    .gallerie_box_wrapper {
+        padding-top: 50px;
+    }
+    #gallerie-s {
+        padding-top: 120px;
+    }
+    /*--------- Studio Page Responsive Css End -------*/
+    /*--------- Contact Page Responsive Css Strat -------*/
+    .address_contact_block{
+        left: -50%;
+    }
+    .address_contact {
+        padding: 50px;
+    }
+    .contact_form_wrapper .my-col {
+        width: 56%;
+    }
+    .contact_form_title h2 {
+        font-size: 38px;
+    }
+    .contact_form_box {
+        padding-top: 40px;
+    }
+    .contact_form_item {
+        margin-bottom: 15px;
+    }
+    .contact_form_item textarea {
+        height: 110px;
+    }
+    .custom-checkboc_button {
+        margin-bottom: 30px;
+    }
+    .contact_form_wrapper {
+        padding: 90px 15px 50px 50px;
+    }
+    #contact-form {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    /*--------- Contact Page Responsive Css End -------*/
+
+}
+
+@media screen and (max-width: 1360px){
+    .contact_popup_block.open {
+        right: -30%;
+    }
+    .contact_popup_block {
+        max-width: 85%;
+    }
+    .online_analyse_text {
+        bottom: -100px;
+    }
+    .online_analyse_text h2{
+        font-size: 150px;
+    }
+    .schon_gewusst_section .online_analyse_text h2 {
+        font-size: 170px;
+    }
+    .wir_empfehlen_img_col img {
+        height: 100%;
+        object-fit: cover;
+        object-position: right;
+    }
+    .schon_gewusst_right_col {
+        padding-left: 30px;
+    }
+    /*----------- Services highlight Section Start -------------*/
+    .services_contain .service_box_img{
+        width: 115px;
+        height: 115px;
+    }
+    .services_contain .service_box_img svg{
+        width: 65%;
+    }
+    .services_contain_start, .services_contain_end{
+        justify-content: center;
+    }
+    .service_list ul li p, .second_slider .moretext p{
+        font-size: 14px;
+    }
+    .inner_page_title h2 {
+        font-size: 68px;
+    }
+    .lg_pad_right {
+        padding-right: 7.5%;
+    }
+    .lg_pad_left{
+        padding-left: 7.5%;
+    }
+    /*----------- Services highlight Section End -------------*/
+
+}
+
+@media screen and (max-width: 1280px){
+    /*----------- Services highlight Section Start -------------*/
+    .lg_pad_right {
+        padding-right: 5%;
+    }
+    .lg_pad_left{
+        padding-left: 5%;
+    }
+    /*----------- Services highlight Section End -------------*/
+}
+
+@media screen and (max-width: 1200px){}
+
+@media screen and (max-width: 1199px){
+    .container {
+        max-width: 100%;
+    }
+    .home_main_title h1 {
+        font-size: 60px;
+        max-width: 300px;
+    }
+    .logo-hold img {
+        max-width: 130px;
+    }
+    .home_desc p {
+        font-size: 16px;
+    }
+    .home_content_block {
+        top: 50%;
+    }
+    .close-menu img {
+        max-width: 30px;
+    }
+    .contact_popup_block {
+        height: calc(100vh - 75px);
+        top: 75px;
+    }
+    .kontakt-email-number-block p + p{
+        padding-left: 25px;
+    }
+    .kontakt-email-number-block p {
+        font-size: 20px;
+    }
+    .kontakt-email-number-block {
+        margin-left: -10%;
+    }
+    .common-pt {
+        padding-top: 75px;
+    }
+    .bewertungen_owl {
+        padding: 0 50px;
+    }
+    .bewertungen_owl:after {
+        left: 35px;
+    }
+    .bewertungen_content_block .common_section_desc p, .bewertungen_name h4 {
+        font-size: 16px;
+        max-width: 100%;
+    }
+    .online_analyse_text {
+        bottom: -80px;
+    }
+    .online_analyse_text h2 {
+        font-size: 130px;
+    }
+    .online_analyse_icon img {
+        max-width: 40px;
+    }
+    .mitglied_werden_right_col {
+        padding-left: 55px;
+    }
+    .mitglied_werden_section .online_analyse_text h2 {
+        font-size: 100px;
+    }
+    .gewinnspiel_section .common_scetion_shape_img {
+        display: none;
+    }
+    .gewinnspiel_section .online_analyse_text {
+        left: 40px;
+        bottom: -90px;
+    }
+    .gewinnspiel_section .online_analyse_text h2 {
+        font-size: 160px;
+    }
+    .wir_empfehlen_name h4 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .wir_empfehlen_label {
+        max-width: 145px;
+        font-size: 18px;
+    }
+    .wir_empfehlen_content_col {
+        padding-top: 40px;
+    }
+    .schon_gewusst_content .common_section_desc p {
+        font-size: 16px;
+    }
+    .schon_gewusst_image {
+        padding-left: 20px;
+        padding-top: 20px;
+    }
+    .probetraining_section_image {
+        padding-right: 255px;
+    }
+    .probetraining_shape_line img {
+        max-height: 355px;
+    }
+    .probetraining_shape_line {
+        left: -67px;
+        top: -34px;
+        transform: rotate(
+                -8deg
+        );
+    }
+    .probetraining_section_image_shape img {
+        max-height: 340px;
+    }
+    .ct_accordion_lable h3 {
+        font-size: 18px;
+    }
+    .ct_accordion_info {
+        padding-left: 15px;
+    }
+    .ct_accordion_lable {
+        padding-right: 15px;
+    }
+    /*----------- Services highlight Section Start -------------*/
+    .services_red_section {
+        padding: 40px 0px;
+    }
+    .lg_pad_right{
+        padding-right: 30px;
+    }
+    .lg_pad_left{
+        padding-left: 30px;
+    }
+    .moreless-button span{
+        font-size: 16px;
+    }
+    .services_first_btn {
+        padding-top: 25px;
+    }
+    .inner_page_title h2 {
+        font-size: 60px;
+    }
+    .inner_point_wir p {
+        max-width: 300px;
+    }
+    .inner_title_wir h3 {
+        font-size: 40px;
+    }
+    .inner_wir_contnet_box .common_section_desc p {
+        font-size: 20px;
+    }
+    .discount_price {
+        font-size: 70px;
+    }
+    .up_to, .pr_off {
+        font-size: 22px;
+    }
+    .discount_bg {
+        max-width: 225px;
+        height: 130px;
+        padding-bottom: 40px;
+    }
+    .inner_wir_contnet_col{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .wir_inner_product {
+        object-position: center right;
+    }
+    .inner_wir_empfehlen_section {
+        padding-top: 60px;
+    }
+    .inner_wir_contnet_box {
+        margin-left: 0%;
+    }
+    /*----------- Services highlight Section End -------------*/
+    .common-footer-pt .footer_inner_wrapper {
+        padding-top: 270px;
+    }
+
+    /*----------- Course Page Start -------------*/
+    .kurse_im_uberblick_title h3 {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+    .kurse_im_uberblick_content_box .common-section-desc p {
+        font-size: 16px;
+    }
+    .kurse_im_uberblick_image img {
+        min-height: 350px;
+    }
+    .kurse_im_uberblick_owl.owl-theme .owl-nav [class*=owl-] svg {
+        max-width: 30px;
+    }
+    .kurse_im_uberblick_owl.owl-theme .owl-nav {
+        max-width: 135px;
+    }
+    .kurse_im_uberblick_section {
+        padding: 60px 0;
+    }
+    .kurse_im_uberblick_content_box .common-section-desc {
+        max-width: 180px;
+    }
+    .course-page .home_banner_image img {
+        object-position:left top;
+    }
+    /*----------- Course Page End -------------*/
+    .kursplan_tab_block {
+        padding: 120px 0 50px 15px;
+    }
+    .kursplan_left_col {
+        width: 250px;
+    }
+    .kursplan_right_col {
+        width: calc(100% - 250px);
+    }
+    .kursplan_table_section {
+        padding: 60px 0;
+    }
+    .kurspaln_data_nav ul li a {
+        font-size: 22px;
+    }
+    .kursplan_table_block {
+        width: calc(100% - 40px);
+        padding: 15px 30px 0;
+    }
+    .kursplan_red_box {
+        width: 40px;
+    }
+    .krus_day_paln_table table tr td p {
+        font-size: 16px;
+    }
+    .kursplan_download a {
+        font-size: 20px;
+    }
+    .kurspaln_data_nav ul li + li {
+        margin-left: 20px;
+    }
+    .kursplan_tab_block ul li + li {
+        margin-top: 30px;
+    }
+    .number_dez_section {
+        padding: 60px 0;
+    }
+    .dez_col {
+        padding: 0 15px;
+    }
+    .number_dez_row {
+        margin: 0 -15px;
+    }
+    /*--------- Studio Page Responsive Css Strat -------*/
+    #sudio-page .unser_team_slider_wrapper {
+        padding: 50px 15px 0 60px;
+    }
+    #unser-team-s {
+        padding-top: 50px;
+    }
+    #sei-nicht {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .unser_team_title, .sei_nicht_details_block h2 {
+        font-size: 50px;
+    }
+    .icon_set_1 {
+        left: 15%;
+    }
+    .icon_set_3 {
+        left: 19%;
+    }
+    .icon_set_4 {
+        right: 13%;
+    }
+    .icon_set_5 {
+        right: 22%;
+    }
+    .icon_set_2 {
+        right: 16%;
+    }
+    .gallerie_block_owl .row {
+        margin-left: -7px;
+        margin-right: -7px;
+    }
+    .gallerie_block .row > div {
+        padding: 7px;
+    }
+    .gallerie_box_wrapper {
+        padding-top: 30px;
+    }
+    #gallerie-s {
+        padding-top: 90px;
+    }
+    .pl50 {
+        padding-left: 50px;
+    }
+    #contact-form {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .close_icon i, .circle_2 i {
+        font-size: 39px;
+    }
+    .circle_1 i {
+        font-size: 20px;
+    }
+    /*--------- Studio Page Responsive Css End -------*/
+    /*--------- Contact Page Responsive Css Strat -------*/
+    .contact_form_wrapper {
+        padding: 70px 15px 30px 30px;
+    }
+    .contact_form_title h2 {
+        font-size: 34px;
+    }
+    .address_contact_main_title {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+    .address_contact_block{
+        left: -40%;
+    }
+    .address_contact {
+        width: auto;
+        padding: 40px 30px;
+    }
+    .contact_form_box {
+        padding-top: 25px;
+    }
+    .contact_form_item textarea {
+        height: 100px;
+    }
+    .contact_form_item {
+        margin-bottom: 10px;
+    }
+    .contact_form_wrapper .my-col {
+        width: 65%;
+    }
+    /*--------- Contact Page Responsive Css End -------*/
+
+}
+
+@media screen and (max-width: 1080px){
+    .common_scetion_shape_img {
+        display: none;
+    }
+    .bistdu_ubergewichtig_content {
+        padding-left: 0px;
+    }
+    .probetraining_content {
+        max-width: 410px;
+    }
+    .probetraining_shape_line img {
+        max-height: 351px;
+    }
+    .probetraining_shape_line {
+        left: -73px;
+        top: -34px;
+        transform: rotate(
+                -11deg
+        );
+    }
+    .services_left_section{
+        min-width: 60%;
+    }
+    .services_right_section{
+        min-width: 40%;
+    }
+    .kurse_im_uberblick_content_box .common-section-desc {
+        max-width: 170px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .home_banner_image {
+        max-width: 70%;
+    }
+    .hamburger-menu {
+        width: 35px;
+    }
+    .m-bar {
+        height: 2px;
+    }
+    .m-bar:before {
+        transform: translateY(-6px);
+    }
+    .m-bar:after {
+        transform: translateY(6px);
+    }
+    .home_next_arrow a {
+        width: 50px;
+        height: 100px;
+    }
+    .home_next_arrow {
+        bottom: -30px;
+    }
+    .home_next_arrow a img {
+        max-width: 22px;
+    }
+    .home_content_block {
+        left: 140px;
+    }
+    .header--inner--menu--block ul li a {
+        font-size: 20px;
+        min-height: 50px;
+    }
+    .header--inner--menu--block ul li a:hover, .header--inner--menu--block > ul > li.active > a {
+        font-size: 25px;
+    }
+    .dorpdown--submenu ul li a {
+        font-size: 16px;
+        min-height:40px;
+    }
+    .dorpdown--submenu ul li a:hover {
+        font-size: 20px;
+    }
+    .header--inner--menu--block ul li a i {
+        font-size: 20px;
+    }
+    .header--inner--menu--block {
+        right: 10%;
+        min-width: 200px;
+    }
+    .header--inner--btn {
+        bottom: 20px;
+        padding: 0 15px;
+    }
+    .effect-rotateleft.animate .main-wrapper {
+        -webkit-transform: translateZ(-1800px) translateX(-47%) rotateY(35deg);
+        transform: translateZ(-1800px) translateX(-47%) rotateY(35deg);
+    }
+    .contact_popup_box, .contact_popup_block{
+        display: none !important;
+    }
+    .common_section_title h2 {
+        font-size: 40px;
+    }
+    .deine_leistungen_content a, .common_section_desc p {
+        font-size: 16px;
+    }
+    .deine_leistungen_content {
+        padding: 20px;
+    }
+    .deine_leistungen_content:before {
+        height: 160px;
+    }
+    .deine_leistungen_content h4 {
+        margin-bottom: 5px;
+    }
+    .deine_leistungen_slider_block {
+        padding: 30px 15px 0;
+        margin: 0;
+    }
+    .bewertungen_image_block {
+        width: 300px;
+    }
+    .bewertungen_content_block {
+        width: calc(100% - 300px);
+    }
+    .online_analyse_content {
+        padding-left: 0;
+    }
+    .online_analyse_point li{
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .online_analyse_text {
+        display: none;
+    }
+    .online_analyse_section .container {
+        margin-bottom: 0;
+    }
+    .bistdu_ubergewichtig_section .common_section_title h2 {
+        font-size: 40px;
+        word-break: break-all;
+    }
+    .bistdu_ubergewichtig_row, .mitglied_werden_row, .gewinnspiel_row, .schon_gewusst_row {
+        margin-bottom: 0;
+    }
+    .bistdu_ubergewichtig_section:before {
+        max-width: 50%;
+    }
+    .mitglied_werden_right_col {
+        padding-left: 20px;
+    }
+    .schon_gewusst_content .common_section_title h2 {
+        font-size: 40px;
+    }
+    .schon_gewusst_left_col {
+        width: 330px;
+    }
+    .schon_gewusst_right_col {
+        width: calc(100% - 330px);
+        padding-left: 20px;
+    }
+    .wir_empfehlen_label {
+        max-width: 120px;
+        font-size: 15px;
+    }
+    .wir_empfehlen_name h4 {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .wir_btn {
+        font-size: 14px;
+        padding: 10px;
+    }
+    .wir_empfehlen_ctn_col {
+        padding: 0 6px;
+    }
+    .zum_more a {
+        font-size: 16px;
+    }
+    .wir_link {
+        word-break: break-all;
+    }
+    .schon_gewusst_row {
+        padding: 0 15px;
+    }
+    .probetraining_content {
+        max-width: 355px;
+    }
+    .probetraining_shape_line {
+        left: -86px;
+        top: -17px;
+        transform: rotate(
+                -20deg
+        );
+    }
+    .probetraining_shape_line img {
+        max-height: 320px;
+    }
+    .probetraining_content_ul {
+        padding-left: 40px;
+    }
+    .probetraining_content_ul li:nth-child(1) {
+        margin-left: 45px;
+    }
+    .probetraining_content_ul li:nth-child(2) {
+        margin-left: 25px;
+    }
+    .probetraining_content_ul li:nth-child(3) {
+        margin-left: 15px;
+    }
+    .probetraining_section_block {
+        max-width: 767px;
+    }
+    /*----------- Services highlight Section Start -------------*/
+    .services_contain .service_box_img {
+        width: 105px;
+        height: 105px;
+    }
+    .services_box_details p{
+        font-size: 18px;
+    }
+    .services_first_inner_section{
+        flex-direction: column;
+    }
+    .lg_container{
+        padding: 0 15px;
+    }
+    .services_left_section{
+        height: 500px;
+    }
+    .services_right_contain{
+        justify-content: flex-start;
+    }
+    .services_right_inner_contain {
+        align-items: flex-start;
+    }
+    .more_main{
+        text-align: left;
+    }
+    .services_first_btn{
+        justify-content: flex-start;
+    }
+    .services_right_contain{
+        margin-top: 25px;
+    }
+    .service_list ul li p{
+        font-size: 16px;
+    }
+
+    .second_slider .services_first_inner_section {
+        flex-direction: column-reverse;
+    }
+    .second_slider{
+        margin-top: 60px;
+    }
+    .dez_col:nth-child(2),
+    .dez_col:nth-child(3) {
+        display: none;
+    }
+    .dez_col {
+        padding: 0;
+        width: 100%;
+    }
+    .number_dez_row {
+        margin: 0
+    }
+    .number_dez_section:after {
+        display: none;
+    }
+    .number_dez_owl.owl-theme .owl-nav  [class*=owl-]{
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        margin: 0;
+    }
+    .number_dez_owl.owl-theme .owl-nav [class*=owl-]:hover {
+        background-color: var(--color-1);
+    }
+    .number_dez_owl.owl-theme .owl-nav button {
+        background-color: var(--color-1);
+        width: 35px;
+        height: 35px;
+        border: 0;
+        border-radius: 0;
+        margin: 0;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.20);
+    }
+    .number_dez_owl.owl-carousel .owl-nav button.owl-next{
+        right: 0;
+    }
+    .number_dez_owl.owl-carousel .owl-nav button.owl-prev{
+        left: 0;
+    }
+    .number_dez_owl.owl-theme .owl-nav [class*=owl-] svg {
+        max-width: 25px;
+    }
+    .dez_dn {
+        display: block;
+    }
+    .number_dez_box {
+        margin: 15px;
+        position: relative;
+        z-index: 10;
+    }
+    .dez_col .item + .item {
+        padding-top: 0px;
+    }
+    .number_dez_section {
+        padding-bottom: 0;
+    }
+    .overly_number_content h3 {
+        font-size: 50px;
+    }
+    .overly_number_content p {
+        font-size: 20px;
+    }
+    .overly_number {
+        max-width: 90px;
+        min-height: 122px;
+    }
+
+    /*----------- Services highlight Section End -------------*/
+
+    .kurse_im_uberblick_content_box .common-section-desc {
+        max-width: 200px;
+    }
+    /*--------- Studio Page Responsive Css Strat -------*/
+    .unser_team_title, .sei_nicht_details_block h2 {
+        font-size: 45px;
+    }
+    .team_details_text_title {
+        font-size: 18px;
+    }
+    .icon_set_1 {
+        width: 15px;
+        left: 10%;
+        top: 5px;
+    }
+    .icon_set_3 {
+        left: 12%;
+    }
+    .icon_set_3, .icon_set_4, .icon_set_5 {
+        width: 30px;
+    }
+    .icon_set_2 {
+        width: 20px;
+    }
+    .sei_nicht_details_block h2 {
+        margin-bottom: 30px;
+    }
+    .only_for_line {
+        width: 31%;
+        bottom: -54px;
+    }
+    .unser_team_slider_owl.owl-carousel .owl-nav .owl-prev {
+        margin-right: 50px;
+    }
+    #unser-team-s {
+        padding-top: 40px;
+    }
+    #sudio-page .unser_team_slider_wrapper {
+        padding: 40px 10px 0px 30px;
+    }
+    .gallerie_box_wrapper {
+        padding-top: 20px;
+    }
+    #gallerie-s {
+        padding-top: 70px;
+    }
+    .pl50 {
+        padding-left: 15px;
+    }
+    .close_icon i, .circle_2 i {
+        font-size: 28px;
+    }
+    .circle_1 i {
+        font-size: 16px;
+    }
+    /*--------- Studio Page Responsive Css End -------*/
+    /*--------- Contact Page Responsive Css Strat -------*/
+    .address_contact_details:last-child {
+        margin-bottom: 0px;
+    }
+    .contact_form_wrapper {
+        padding: 40px 15px 300px 25px;
+    }
+    #contact-form {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .contact_form_title h2 {
+        font-size: 30px;
+    }
+    .mobile_img{
+        display: block;
+        height: 295px;
+    }
+    .padding_none{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .address_contact_block{
+        left: 50%;
+        padding: 40px 30px;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+        top: -93%;
+        width: 100%;
+    }
+    .address_contact_details:not(:last-child) {
+        margin-bottom: 40px;
+    }
+    .contact_form_wrapper .my-col {
+        width: 95%;
+        margin: 0 auto;
+    }
+    .contact_form_item textarea {
+        height: 200px;
+    }
+    .desktop_img{
+        display: none;
+    }
+    .custom-checkboc_button{
+        margin-top: 15px;
+        margin-bottom: 50px;
+    }
+    /*--------- Contact Page Responsive Css End -------*/
+
+
+}
+
+@media screen and (max-width: 767px){
+    .home_next_arrow a {
+        width: 40px;
+        height: 80px;
+    }
+    .home_content_block {
+        left: 15px;
+    }
+    .logo-hold img {
+        max-width: 110px;
+    }
+    .close-menu img {
+        max-width: 25px;
+    }
+    .deine_leistungen_owl.owl-theme .owl-nav {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        left: 0;
+        margin: 0;
+    }
+    .deine_leistungen_owl.owl-theme .owl-nav [class*=owl-],
+    .bewertungen_owl.owl-theme .owl-nav [class*=owl-] {
+        background-color: var(--color-1);
+        width: 35px;
+        height: 35px;
+        border: 0;
+        border-radius: 0;
+        margin: 0;
+    }
+    .bewertungen_owl.owl-theme .owl-nav [class*=owl-] {
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.30);
+    }
+    .deine_leistungen_owl.owl-theme .owl-nav [class*=owl-] svg,
+    .bewertungen_owl.owl-theme .owl-nav [class*=owl-] svg {
+        max-width: 25px;
+    }
+    .deine_leistungen_owl.owl-theme .owl-nav [class*=owl-] svg path {
+        fill: var(--color-3);;
+    }
+    .deine_leistungen_owl.owl-carousel .owl-nav button.owl-next {
+        margin-right: -10px;
+    }
+    .deine_leistungen_owl.owl-carousel .owl-nav button.owl-prev {
+        margin-left: -10px;
+    }
+    .bewertungen_image_block, .bewertungen_content_block  {
+        width: 100%
+    }
+    .bewertungen_content_block {
+        background-color: var(--color-1);
+        padding:10px 20px;
+    }
+    .bewertungen_content_block .bewertungen_btn,
+    .bewertungen_content_block .bewertungen_name,
+    .bewertungen_content_block .rating_start{
+        display: none;
+    }
+    .bewertungen_owl:after, .bewertungen_content_block .common_section_desc:after, .bewertungen_quate_icon {
+        display: none;
+    }
+    .bewertungen_hold {
+        max-width: 140px;
+        height: 140px;
+        margin: 0 auto;
+    }
+    .bewertungen_hold img {
+        border-radius: 50%;
+        height: 100%;
+    }
+    .mobile_bewertungen_name, .mobile_bewertungen_btn {
+        display: block;
+    }
+    .bewertungen_owl {
+        padding: 0 15px;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    .bewertungen_content_block .common_section_desc {
+        padding-bottom: 0px;
+    }
+    .bewertungen_bottom_white_box {
+        min-height: 40%;
+    }
+    .bewertungen_owl.owl-theme .owl-dots {
+        text-align: right;
+        position: absolute;
+        right: 10px;
+    }
+    .bewertungen_section .common_section_title {
+        text-align: center;
+    }
+    .bewertungen_section .common_section_title h2 {
+        color: var(--color-1);
+    }
+    .bewertungen_slider_block {
+        padding-top: 25px;
+    }
+    .bewertungen_owl.owl-theme .owl-nav {
+        top: 60%;
+    }
+    .mobile_bewertungen_btn .common-btn {
+        max-width: 370px;
+    }
+    .bewertungen_owl:before {
+        content: '';
+        background-image: url("../images/home/moblie_qaute_shape.svg");
+        background-repeat: no-repeat;
+        background-size: 100%;
+        position: absolute;
+        top: 100%;
+        left: 15px;
+        right: 0;
+        max-width: 370px;
+        width: 100%;
+        height: 100vh;
+    }
+    .bewertungen_section {
+        height: 100%;
+    }
+    .bewertungen_btn {
+        padding-top: 25px;
+    }
+    .bewertungen_content_block .common_section_desc p {
+        font-style: normal;
+    }
+    .online_analyse_icon, .online_analyse_content .common_section_title {
+      display: none;
+    }
+    .mobile_online_analyse_title {
+        display: block;
+    }
+    .mobile_online_analyse_title .common_section_title h2, .mitglied_werden_content .common_section_title h2, .mobile_schon_gewusst_title .common_section_title h2,
+    .faq_section .common_section_title h2{
+        color: var(--color-1);
+    }
+    .online_analyse_section:before {
+        clip-path: polygon(0 0, 0% 0, 130% 100%, 0% 100%);
+        -webkit-clip-path: polygon(0 0, 0% 0, 130% 100%, 0% 100%);
+        max-width: 100%;
+    }
+    .online_analyse_point li {
+        color: var(--color-2);;
+        line-height: 1.2;
+    }
+    .online_analyse_content .online_analyse_point {
+        max-width: 420px;
+        margin: 0 auto;
+    }
+    .online_analyse_content .common_section_btn {
+        text-align: center;
+    }
+    .bistdu_ubergewichtig_right_col, .bistdu_ubergewichtig_left_col {
+        width: 100%;
+    }
+    .bistdu_ubergewichtig_section .common_section_title h2 {
+        text-align: center;
+        margin: 0 auto;
+        word-break: unset;
+    }
+    .bistdu_ubergewichtig_section:before {
+        max-width: 200px;
+    }
+    .bistdu_ubergewichtig_content .online_analyse_point, .bistdu_ubergewichtig_content .bistdu_ubergewichtig_btn, .bu_desk_img {
+        display: none;
+    }
+    .mobile_bistdu_ubergewichtig_desc {
+        display: block;
+        padding-left: 220px;
+        text-align: left;
+        margin: 20px 0 30px;
+    }
+    .mobile_bistdu_ubergewichtig_desc p{
+        font-size: 16px;
+        font-weight: 400;
+        color: #A5A5A5;
+    }
+    .mobile_bistdu_ubergewichtig_btn {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .bu_mobile_img {
+        display: block;
+    }
+    .mobile_bistdu_ubergewichtig_btn .common-btn:before {
+        background-color: var(--color-6);
+    }
+    .mitglied_werden_right_col, .mitglied_werden_left_col {
+        width: 100%;
+        padding-left: 0;
+    }
+    .mitglied_werden_image {
+        max-width: 450px;
+        margin: 0 auto;
+    }
+    .mitglied_werden_left_col {
+        order: 2;
+    }
+    .mitglied_werden_section:before {
+        top: unset;
+        left: unset;
+        right: 0;
+        bottom: 0;
+        clip-path: polygon(140% 0, 100% 0%, 100% 100%, 0% 100%);
+        -webkit-clip-path: polygon(140% 0, 100% 0%, 100% 100%, 0% 100%);
+        max-width: 90%;
+    }
+    .mitglied_werden_content .mitglied_werden_btn {
+        display: none;
+    }
+    .mobile_mitglied_werden_btn {
+        display: block;
+        text-align: center;
+    }
+    .mitglied_werden_content .online_analyse_point {
+        padding-top: 10px;
+        margin: 0 auto 25px;
+        max-width: 420px;
+    }
+    .mitglied_werden_content .online_analyse_point li {
+        color: var(--color-3);;
+    }
+    .mitglied_werden_image {
+        padding-left: 20px;
+        padding-bottom: 20px;
+    }
+    .mitglied_werden_btn {
+        padding-top: 25px;
+    }
+    .mitglied_werden_content .common_section_title {
+        text-align: center;
+    }
+    .gewinnspiel_right_col, .gewinnspiel_left_col {
+        width: 100%;
+    }
+    .gewinnspiel_content .online_analyse_point, .gewinnspiel_content .gewinnspiel_btn {
+        display: none;
+    }
+    .gewinnspiel_content .common_section_desc p {
+        max-width: 100%;
+    }
+    .gewinnspiel_content {
+        display: inline-block;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .gewinnspiel_content .common_section_title{
+        text-align: center;
+    }
+    .mobile_gewinnspiel_btn {
+        display: block;
+        text-align: center;
+    }
+    .g_content_1 {
+        padding-top: 25px;
+    }
+    .gewinnspiel_section:before {
+        height: 55%;
+    }
+    .schon_gewusst_left_col, .schon_gewusst_right_col {
+        width: 100%;
+        padding-left: 0;
+    }
+    .schon_gewusst_image {
+        max-width: 400px;
+        margin-left: auto;
+    }
+    .mobile_schon_gewusst_title, .mobile_wir_btn_link {
+        display: block;
+    }
+    .mobile_schon_gewusst_title .common_section_title {
+        text-align: right;
+    }
+    .mobile_schon_gewusst_title .common_section_title h2 span {
+        font-weight: 400;
+    }
+    .schon_gewusst_content .common_section_title, .wir_empfehlen_name h4:after, .wir_empfehlen_desc {
+        display: none;
+    }
+    .schon_gewusst_content  {
+       text-align: right;
+        padding-top: 25px;
+    }
+    .schon_gewusst_section:before {
+        clip-path: polygon(0 70%, 60% 100%, 0 100%);
+        -webkit-clip-path: polygon(0 70%, 60% 100%, 0 100%);
+        left: 0;
+        right: unset;
+        top: unset;
+        bottom: 0;
+    }
+    .schon_gewusst_content .common_section_desc p {
+        font-size: 16px;
+        color: var(--color-3);;
+        max-width: 450px;
+        margin-left: auto;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 5;
+        overflow: hidden;
+    }
+    .wir_empfehlen_ctn_col {
+        display: none;
+    }
+    .wir_btn {
+        margin: 0;
+        padding: 1px 5px;
+        font-weight: 400;
+    }
+    .wir_empfehlen_content_col {
+        width: 100%;
+        padding-left: 95px;
+    }
+    .wir_empfehlen_name h4 {
+        margin-bottom: 0;
+    }
+    .wir_empfehlen_img_col {
+        position: absolute;
+        left: 0;
+        z-index: 1;
+        height: 100%;
+    }
+    .wir_empfehlen_label {
+        left: 95px;
+    }
+    .wir_empfehlen_img_col img {
+        max-height: 140px;
+    }
+    .wir_empfehlen_box {
+        position: relative;
+    }
+    .probetraining_section_block {
+        max-width: 575px;
+    }
+    .probetraining_content {
+        max-width: 320px;
+    }
+    .probetraining_shape_line {
+        left: -97px;
+        top: -9px;
+        transform: rotate(
+                -26deg
+        );
+    }
+    .probetraining_shape_line img {
+        max-height: 315px;
+    }
+    .probetraining_section_image_box {
+        padding: 70px 0 80px;
+    }
+    .faq-col {
+        width: 100%;
+        padding: 0;
+    }
+    .ct_accordion_lable {
+        text-align: left;
+    }
+    .common-section-desc p {
+        font-size: 16px;
+    }
+    .ct_accordion_lable h3 {
+        font-weight: 400;
+        color: var(--color-3);;
+        padding: 15px 40px 15px 15px;
+    }
+    .ct_accordion_info {
+        display: none;
+    }
+    .faq_box_block {
+        background-color: transparent;
+        backdrop-filter: unset;
+        -webkit-backdrop-filter: unset;
+        padding: 0;
+        margin-top: 70px;
+        box-shadow: unset;
+    }
+    .ct_accordion_wrap {
+        background-color: var(--color-1);
+        border-bottom: 0;
+        padding-bottom: 0;
+    }
+    .ct_accordion_lable:before, .ct_accordion_lable:after {
+        display: block;
+    }
+    .ct_accordion_info .common-section-desc {
+        padding: 15px;
+    }
+    .ct_accordion_info .common-section-desc p{
+        color: var(--color-3);;
+    }
+    .faq_section:before {
+        max-width: 100%;
+        clip-path: polygon(170% 0, 100% 0%, 100% 100%, 0% 100%);
+         -webkit-clip-path: polygon(170% 0, 100% 0%, 100% 100%, 0% 100%);
+    }
+    .footer_image_block {
+        display: none;
+    }
+    .footer_heading h3{
+        color: var(--color-3);
+    }
+    .footer_wrapper {
+        padding-bottom: 35px;
+        margin-bottom: 35px;
+    }
+    .footer_col {
+        width: 50%;
+    }
+    .footer_col:nth-child(3){
+        width: 100%;
+        margin-top: 45px;
+    }
+    .copy-rights-block {
+        padding: 45px 0 15px;
+        text-align: left;
+        justify-content: unset;
+    }
+    .copyright-menu {
+        padding-left: 0px;
+    }
+    .copyright-menu {
+        order: -1;
+        margin-bottom: 10px;
+    }
+    .copyright-text p {
+        line-height: 1.8;
+    }
+
+    /*========== Inner Page Css ===========*/
+
+    /*--------Services Page Css----------*/
+
+    .home_social_icon{
+        left: 15px;
+    }
+    .inner-page .home_content_block {
+        left: 0;
+        padding: 0 15px;
+        width: 100%;
+    }
+    /*----------- Services highlight Section Start -------------*/
+    .services_contain .service_box_img {
+        width: 90px;
+        height: 90px;
+    }
+    .services_red_section {
+        padding: 30px 0px;
+    }
+    .services_left_section{
+        height: 400px;
+    }
+    .inner_page_title h2 {
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+    .service_list ul li:after{
+        transform: scale(0.8);
+    }
+    .service_list ul li{
+        padding-left: 30px;
+    }
+    .more_main {
+        margin-top: 15px;
+    }
+    .services_first_btn {
+        padding-top: 15px;
+    }
+    .inner_wir_image_col, .inner_wir_contnet_col {
+        width: 100%;
+    }
+    .inner_wir_image:after, .inner_wir_top_shape, .inner_wir_bottom_shape, .inner_wir_contnet_box .inner_title_wir, .inner_wir_contnet_box .common_section_desc {
+        display: none;
+    }
+    .inner_wir_contnet_box {
+        margin-left: 0;
+        padding: 20px;
+    }
+    .inner_wir_contnet_col {
+        padding: 10px 0 20px;
+    }
+    .wir_inner_product {
+        object-position: center;
+        max-height: 250px;
+        width: 100%;
+    }
+    .mobile_inner-wir-title {
+        display: block;
+        margin-bottom: 25px;
+        padding-top: 50px;
+    }
+    .inner_title_wir h3 {
+        font-size: 30px;
+        font-family: 'Montserrat', sans-serif;
+        margin-bottom: 0;
+    }
+    .mobile_inner-wir-title .common_section_desc p{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        -webkit-text-stroke-width: 0px;
+        color: var(--color-3);;
+
+    }
+    .inner_point_wir p {
+        -webkit-text-stroke-width: 0px;
+        color: var(--color-3);;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 400;
+        font-size: 14px;
+        max-width: 210px;
+    }
+    .inner_point_wir p:after {
+        top: 6px;
+    }
+    .inner_btn_wir {
+        padding: 20px 15px 0;
+    }
+
+    /*----------- Services highlight Section End -------------*/
+
+    .kurse_im_uberblick_content_box .common-section-desc {
+        max-width: 160px;
+    }
+    .kursplan_left_col, .kursplan_right_col {
+        width: 100%;
+        padding: 0 15px;
+    }
+    .kursplan_red_box {
+        display: none;
+    }
+    .kursplan_table_block {
+        width: 100%;
+        padding: 15px 0 0;
+    }
+    .kurspaln_data_info_block {
+        padding-top: 25px;
+    }
+    .kurspaln_data_nav ul {
+        text-align: center;
+    }
+    .kursplan_tab_block .nav-tabs {
+        display: none;
+    }
+    .kursplan_tab_block {
+        padding: 0;
+        margin-bottom: 20px;
+        height: auto;
+    }
+    .mobile_kursplan_dropdown {
+        display: block;
+        max-width: 250px;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .footer_inner_wrapper {
+        padding-top: 60px;
+    }
+    .gewinnspiel_section {
+        padding-top: 70px;
+    }
+    /*--------- Studio Page Responsive Css Strat -------*/
+    .pl50 {
+        padding-left: 0px;
+    }
+    .icon_set{
+        display: none;
+    }
+    .only_for_line{
+        display: none;
+    }
+    .mobile_img {
+        height: 285px;
+    }
+    /*--------- Studio Page Responsive Css End -------*/
+
+
+}
+
+@media screen and (max-width: 639px) {
+    .kurse_im_uberblick_content {
+        clip-path: polygon(0 0, 60% 0, 75% 100%, 0 100%);
+        -webkit-clip-path: polygon(0 0, 60% 0, 75% 100%, 0 100%);
+    }
+}
+
+
+@media screen and (max-width: 575px){
+    .home_social_icon {
+        display: none;
+    }
+    .home_bottom_white_box {
+        min-height: 50px;
+        bottom: -50px;
+    }
+    .home_banner_section {
+        margin-bottom: 50px;
+    }
+    .home_banner_image img {
+        height: calc(100vh - 50px);
+        object-position: 30%
+    }
+    .home_next_arrow a {
+        background-color: var(--color-6);
+    }
+    .home_banner_image {
+        max-width: 60%;
+    }
+    .effect-rotateleft.animate .main-wrapper {
+        -webkit-transform: translateZ(-1800px) translateX(-85%) rotateY(35deg);
+        transform: translateZ(-1800px) translateX(-85%) rotateY(35deg);
+    }
+    .shadow-blank {
+        display: none;
+    }
+    .header--inner--menu--block {
+        right: 0;
+    }
+    .common-btn {
+        min-height: 40px;
+        padding: 11px 10px;
+    }
+    .common_section_title h2 {
+        font-size: 30px;
+        color: var(--color-3);;
+    }
+    .deine_leistungen_section:before {
+        max-width: 100%;
+        top: 50%;
+        height: calc(100vh - 50%);
+        clip-path: polygon(100% 0%, 100% 0%, 100% 100%, -15% 100%);
+        -webkit-clip-path: polygon(100% 0%, 100% 0%, 100% 100%, -15% 100%);
+    }
+    .bewertungen_slider_block {
+        padding-top: 15px;
+    }
+    .bewertungen_hold {
+        max-width: 102px;
+        height: 102px;
+    }
+    .bistdu_ubergewichtig_section .common_section_title h2 {
+        font-size: 30px;
+        color: var(--color-1);
+        max-width: 320px;
+    }
+    .bistdu_ubergewichtig_section:before {
+        max-width: 90px;
+    }
+    .mobile_bistdu_ubergewichtig_desc {
+        padding-left: 100px;
+    }
+    .schon_gewusst_image {
+        max-width: 100%;
+    }
+    .schon_gewusst_image img {
+        width: 100%;
+        max-height: 200px;
+        object-fit: cover;
+    }
+    .mobile_schon_gewusst_title .common_section_title {
+        max-width: 290px;
+        margin-left: auto;
+    }
+    .mobile_probetraining_ul {
+        display: block;
+    }
+    .desk_probetraining_ul, .probetraining_content_ul li:after {
+        display: none;
+    }
+    .mobile_probetraining_ul li {
+        padding-left: 0;
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .probetraining_section:before {
+        max-width: 35%;
+    }
+    .probetraining_section_block .common_section_title h2 {
+        background-color: unset;
+        -webkit-text-fill-color:unset;
+        color: var(--color-1);
+    }
+    .probetraining_section_image_shape img {
+        max-height: 270px;
+    }
+    .probetraining_content {
+        max-width: 215px;
+        min-height: 245px;
+        top: 10px;
+    }
+    .probetraining_shape_line {
+        left: -90px;
+        top: -12px;
+        transform: rotate(
+                -29deg
+        );
+    }
+    .probetraining_shape_line img {
+        max-height: 285px;
+    }
+    .probetraining_section_image {
+        padding-right: 130px;
+    }
+    .probetraining_section_image_shape {
+        max-width: 195px;
+    }
+    .probetraining_section_image_shape img {
+        max-height: 270px;
+        object-position: 40% 100%;
+    }
+    .probetraining_section_block {
+        max-width: 365px;
+    }
+
+    .probetraining_content_ul {
+        padding-left: 30px;
+    }
+    .faq_box_block {
+        margin-top: 40px;
+    }
+    .footer_col {
+        width: 100%;
+        max-width: 100%;
+    }
+    .footer_col:nth-child(2) {
+        margin-top: 45px;
+    }
+
+    /*========== Inner Page Css ===========*/
+
+    /*--------Services Page Css----------*/
+
+    .inner-page .home_desc p {
+        max-width: 250px;
+    }
+    .inner-page .home_banner_image img {
+        object-position: 70% top;
+    }
+    .news-page .home_banner_image img {
+        object-position: top right;
+    }
+    .inner-page .home_desc {
+        margin-bottom: 100px;
+    }
+    /*----------- Services highlight Section Start -------------*/
+    .services_contain .service_box_img {
+        width: 80px;
+        height: 80px;
+    }
+    .services_box_details p {
+        font-size: 16px;
+    }
+    .services_red_section {
+        padding: 20px 0px;
+        background-color: var(--color-6);
+    }
+    .second_slider {
+        margin-top: 0px;
+    }
+    .wir_inner_product {
+        max-height: 180px;
+    }
+    .discount_bg {
+        max-width: 200px;
+        height: 120px;
+    }
+    .discount_price {
+        font-size: 60px;
+    }
+    .inner_wir_empfehlen_box:after {
+        left: 15px;
+        right: 15px;
+        top: 15px;
+        bottom: 15px;
+    }
+    .inner_wir_empfehlen_box {
+        border: 1px solid var(--color-1);
+    }
+    .services_right_inner_contain .inner_page_title {
+        display: none;
+    }
+    .mobile_inner_page_title {
+        display: block;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .services_first_bame_section {
+        padding:60px 10px 0;
+    }
+    .services_both_section_slider.owl-theme .owl-nav {
+        position: absolute;
+        top: 25%;
+        transform: translateY(-50%);
+        left: 0;
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+    .kurse_im_uberblick_owl.owl-theme .owl-nav [class*=owl-],
+    .services_both_section_slider.owl-theme .owl-nav [class*=owl-] {
+        background-color: var(--color-1);
+        width: 35px;
+        height: 35px;
+        border: 0;
+        border-radius: 0;
+        margin: 0;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.20);
+    }
+    .services_both_section_slider.owl-theme .owl-dots{
+        margin-top: 15px;
+    }
+    .kurse_im_uberblick_owl.owl-theme .owl-nav [class*=owl-] svg,
+    .services_both_section_slider.owl-theme .owl-nav [class*=owl-] svg {
+        max-width: 25px;
+    }
+    .services_right_contain, .services_right_inner_contain {
+        display: block;
+    }
+    .services_first_btn {
+        justify-content: center;
+    }
+    .more_main, .second_slider .more_main {
+        text-align: center;
+    }
+    .inner_page_title h2 {
+        font-size: 30px;
+    }
+    .services_left_section {
+        height: 240px;
+    }
+    .service_list ul li p {
+        font-weight: 400;
+    }
+    .kurse_im_uberblick_section .inner_page_title{
+        text-align: center;
+    }
+    /*----------- Services highlight Section End -------------*/
+    .course-page .home_banner_image img {
+        object-position:10% top;
+    }
+    .kurse_im_uberblick_slider_block {
+        max-width: 380px;
+        margin: 0 auto;
+        padding: 20px 10px 0;
+    }
+    .kurse_im_uberblick_box {
+        padding-bottom: 40px;
+    }
+    .kurse_im_uberblick_owl.owl-theme .owl-nav {
+        max-width: 100%;
+        top: 45%;
+        transform: translateY(-50%);
+    }
+    .kurse_im_uberblick_owl.owl-carousel .owl-stage-outer {
+        overflow: hidden;
+    }
+    .kurse_im_uberblick_owl.owl-theme .owl-nav [class*=owl-] svg path{
+        fill: var(--color-3);;
+    }
+    .kurse_im_uberblick_owl.owl-carousel .owl-nav button.owl-next {
+        margin-right: -15px
+    }
+    .kurse_im_uberblick_owl.owl-carousel .owl-nav button.owl-prev{
+        margin-left: -15px;
+    }
+    .kurse_im_uberblick_content {
+        max-width: 300px;
+    }
+    .kursplan_table_section {
+        padding-top: 0;
+    }
+    .footer_inner_wrapper {
+        padding-top: 40px;
+    }
+    /*--------- Studio Page Responsive Css Strat -------*/
+    #sei-nicht,#unser-team-s::after{
+        display: none;
+    }
+    #sudio-page .unser_team_slider_wrapper {
+        padding: 15px 15px;
+    }
+    #unser-team-s .container-fluid .col-12{
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .unser_team_slider_owl.owl-theme .owl-nav [class*=owl-], .unser_team_slider_owl.owl-theme .owl-nav [class*=owl-],
+    .gallerie_block_owl.owl-theme .owl-nav [class*=owl-], .gallerie_block_owl.owl-theme .owl-nav [class*=owl-] {
+        background-color: var(--color-1);
+        width: 30px;
+        height: 30px;
+        border: 0;
+        border-radius: 0;
+        margin: 0;
+        margin-left: -10px;
+        margin-right: -10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .gallerie_block_owl.owl-theme .owl-nav [class*=owl-], .gallerie_block_owl.owl-theme .owl-nav [class*=owl-]{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .unser_team_slider_owl.owl-theme .owl-nav,
+    .gallerie_block_owl.owl-theme .owl-nav {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        left: 0;
+        margin: 0;
+        padding-right: 0;
+    }
+    .unser_team_slider_owl.owl-theme .owl-nav [class*=owl-] svg, .unser_team_slider_owl.owl-theme .owl-nav [class*=owl-] svg,
+    .gallerie_block_owl.owl-theme .owl-nav [class*=owl-] svg, .gallerie_block_owl.owl-theme .owl-nav [class*=owl-] svg,
+    .gallerie_block_owl .lb-nav a.lb-next,.gallerie_block_owl .lb-nav a.lb-prev{
+        max-width: 18px;
+    }
+    .unser_team_slider_owl.owl-theme .owl-nav [class*=owl-] svg path,
+    .gallerie_block_owl.owl-theme .owl-nav [class*=owl-] svg path{
+        fill: var(--color-3);;
+    }
+    .unser_team_slider_owl.owl-theme .owl-dots{
+        margin-top: 15px;
+    }
+    .team_details_text_title {
+        font-size: 16px;
+    }
+    .team_details_text{
+        background-color: #990711;
+    }
+    .unser_team_title, .sei_nicht_details_block h2 {
+        font-size: 30px;
+        text-align: center;
+    }
+    #gallerie-s {
+        padding-top: 0;
+        padding-bottom: 40px;
+    }
+    .gallerie_block_owl .mobile_screen_none{
+        display: none;
+    }
+    .gallerie_block_owl .desktop_screen_none{
+        display: block;
+    }
+    .gallerie_block_owl.owl-theme .owl-nav.disabled+.owl-dots{
+        margin-top: 0;
+        bottom: -20px;
+    }
+    .gallerie_box_wrapper {
+        padding-top: 10px;
+    }
+    #unser-team-s {
+        padding-bottom: 30px;
+    }
+    #sudio-page  .lightbox {
+        width: 100%;
+        transform: unset;
+    }
+    #sudio-page .lb-outerContainer,#sudio-page .lightbox .lb-image{
+        width: 100% !important;
+    }
+    #sudio-page .lb-nav a.lb-next, #sudio-page .lb-nav a.lb-prev{
+        width: 30px;
+        height: 30px;
+        background-size: 18px;
+        margin: 0 10px;
+    }
+    #sudio-page .lb-data .lb-close {
+        margin-right: 20px;
+        margin-bottom: 20px;
+        width: 20px;
+        height: 20px;
+        background-size: cover;
+    }
+    .gallerie_block .row > div {
+        padding: 4px;
+    }
+    .gallerie_block_owl .row {
+        margin-left: -4px;
+        margin-right: -4px;
+    }
+    /*--------- Studio Page Responsive Css End -------*/
+    /*--------- Contact Page Responsive Css Strat -------*/
+    .contact_form_wrapper {
+        padding: 25px 15px 300px 15px;
+    }
+    .contact_form_box {
+        padding-top: 20px;
+    }
+    .contact_form_item textarea {
+        height: 200px;
+    }
+    .contact_form_item {
+        margin-bottom: 15px;
+    }
+    .custom-checkboc_button{
+        margin-top: 25px;
+        margin-bottom: 35px;
+    }
+    .contact_form_wrapper {
+        padding: 25px 15px 255px 15px;
+    }
+    .contact_form_wrapper .my-col {
+        width: 100%;
+    }
+    .address_contact{
+        width: 100%;
+    }
+    .address_contact_block{
+        width: 100%;
+    }
+    .address_contact_block {
+        top: -88%;
+    }
+    .mobile_img {
+        height: 266px;
+    }
+    .address_contact_main_title {
+        margin-bottom: 10px;
+    }
+    .location_box br{
+        display: none;
+    }
+    .location_box{
+        max-width: 160px;
+        margin: 0 auto;
+    }
+    /*--------- Contact Page Responsive Css End -------*/
+
+}
+
+@media screen and (max-width: 480px){
+    .footer-fixed-icon {
+        display: block;
+    }
+    .animate .footer-fixed-icon {
+        display: none;
+    }
+   .home-page .common-pt, .gewinnspiel_section {
+        padding-bottom: 70px;
+    }
+
+    .mobile_dn {
+        display: none;
+    }
+    .krus_day_paln_table table tr td {
+        padding: 15px 10px;
+    }
+    .krus_day_paln_table table tr td:nth-child(2) {
+        text-align: right;
+    }
+    .kursplan_download {
+        text-align: center;
+        padding-top: 15px;
+    }
+    .mobile_krusplan_table_btn {
+        display: block;
+        margin-top: 15px;
+        text-align: center;
+    }
+    .footer_inner_wrapper .copy-rights-block {
+        padding-bottom: 60px;
+    }
+
+}
+
+@media screen and (max-width: 450px){
+    .common-btn {
+        max-width: 100%;
+    }
+    .home_desc p {
+        max-width: 230px;
+    }
+    .bewertungen_owl.owl-carousel .owl-nav button.owl-prev {
+        margin-left: 5px;
+    }
+    .bewertungen_owl.owl-carousel .owl-nav button.owl-next {
+        margin-right: 5px;
+    }
+    .online_analyse_image_block {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+    .online_analyse_image_block img {
+        max-height: 350px;
+        width: 100%;
+        object-fit: cover;
+        object-position: top center;
+    }
+    .online_analyse_image_block:after {
+        width: 100%;
+        max-width: 50%;
+        height: 60%;
+    }
+    .online_analyse_section:before {
+        clip-path: polygon(0 0, 0% 0, 170% 100%, 0% 100%);
+        -webkit-clip-path: polygon(0 0, 0% 0, 170% 100%, 0% 100%);
+    }
+    .online_analyse_point li + li {
+        margin-top: 5px;
+    }
+    .wheel--box .wheel--box-inner {
+        max-width: 320px;
+    }
+    .wheel--button a {
+        width: 100px;
+        height: 100px;
+        font-size: 15px;
+    }
+    .spinner-img {
+        padding: 25px;
+    }
+    .wheel--box-inner svg {
+        width: 30px;
+        height: 50px;
+        right: -5px;
+        top: 0px;
+    }
+    .schon_gewusst_image img {
+        max-height: 145px;
+    }
+    .copyright-menu li a, .copyright-text p {
+        font-size: 12px;
+    }
+    .wir_inner_product {
+        max-height: 130px;
+    }
+    .kurse_im_uberblick_content {
+        clip-path: polygon(0 0, 65% 0, 75% 100%, 0 100%);
+        -webkit-clip-path: polygon(0 0, 65% 0, 75% 100%, 0 100%);
+    }
+    .kurspaln_data_nav ul li + li {
+        margin-left: 10px;
+    }
+    .mobile_kursplan_dropdown {
+        max-width: 100%;
+    }
+    .main_drop_title{
+        justify-content: center;
+        position: relative;
+    }
+    .main_drop_title img {
+        position: absolute;
+        right: 25px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .mobile_kursplan_dropdown .dropdown-menu {
+        text-align: center;
+    }
+}
+
+
+@media screen and (max-width: 400px){
+    .online_analyse_image_block img {
+        max-height: 270px;
+    }
+    .online_analyse_content .common_section_btn{
+        margin-top: 15px;
+    }
+    .mitglied_werden_section:before {
+        clip-path: polygon(150% 0, 160% 0%, 100% 100%, 0% 100%);
+        -webkit-clip-path: polygon(160% 0, 100% 0%, 100% 100%, 0% 100%);
+    }
+    .probetraining_section_block {
+        max-width: 300px;
+    }
+    .probetraining_section_image_shape {
+        max-width: 135px;
+    }
+    .probetraining_content {
+        max-width: 195px;
+    }
+    .probetraining_shape_line {
+        left: -96px;
+        transform: rotate(
+                -32deg
+        );
+        top: -8px;
+    }
+    .probetraining_shape_line img {
+        max-height: 278px;
+    }
+    .footer-fixed-icon ul li a img {
+        width: 25px;
+        height: 25px;
+    }
+    .footer-fixed-icon {
+        transform: translateY(80px);
+    }
+    /*----------- Services highlight Section Start -------------*/
+    .services_contain .service_box_img {
+        width: 60px;
+        height: 60px;
+    }
+    .services_box_details p {
+        font-size: 14px;
+    }
+    /*----------- Services highlight Section End -------------*/
+}
+
+@media screen and (max-width: 414px){}
+
+@media screen and (max-width: 367px){
+    .common_section_title h2 {
+        font-size: 26px;
+    }
+    .spinner-img {
+        padding: 22px;
+    }
+    .wir_empfehlen_img_col {
+        max-width: 85px;
+    }
+    .wir_empfehlen_content_col {
+        padding-left: 55px;
+    }
+    .wir_empfehlen_name h4 {
+        font-size: 14px;
+    }
+    .wir_empfehlen_label {
+        left: 65px;
+        font-size: 14px;
+     }
+    .mobile_wir_btn_link {
+        padding: 6px;
+    }
+    .kurspaln_data_nav ul li a {
+        font-size: 18px;
+    }
+    .kurspaln_data_nav ul li a.active:after {
+        width: 35px;
+    }
+
+}
+
+@media screen and (max-width: 375px){
+    /*----------- Services highlight Section Start -------------*/
+    .services_box_details p {
+        font-size: 13px;
+    }
+    .inner_page_title h2{
+        font-size: 26px;
+    }
+    /*----------- Services highlight Section End -------------*/
+}
+
+@media screen and (max-width: 320px){
+    .probetraining_shape_line {
+        left: -88px;
+    }
+    /*--------- Contact Page Responsive Css Strat -------*/
+    #contact-form {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .contact_form_item textarea {
+        height: 150px;
+    }
+    /*--------- Contact Page Responsive Css End -------*/
+}
